@@ -1,8 +1,8 @@
 # Cloud9 VPS Auto Installer
 
-Simple and practical installer to run **Cloud9 IDE** on **Ubuntu/Debian VPS** using **Docker**.
+Installer sederhana untuk menjalankan **Cloud9 IDE** di VPS **Ubuntu / Debian** menggunakan **Docker**.
 
-This project provides a global `c9` command to install, manage, and access Cloud9 quickly.
+Script ini membuat command global `c9` untuk mengontrol Cloud9 dengan mudah.
 
 ## Features
 
@@ -31,3 +31,10 @@ Run:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/nansys404/cloud9-vps-installer/main/install.sh | sudo bash
+```
+
+Setelah install selesai jalankan:
+
+```bash
+sudo c9 start
+```
