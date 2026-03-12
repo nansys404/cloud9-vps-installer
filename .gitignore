@@ -1,0 +1,5 @@
+*.log
+.env
+workspace/
+.c9.env
+.DS_Store
