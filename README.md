@@ -90,7 +90,7 @@ Login: admin / your-password
 
 ```
 username: admin
-password: change-me
+password: anan
 ```
 
 After installation change password:
@@ -118,7 +118,7 @@ Example configuration:
 PORT=8080
 TZ=Asia/Jakarta
 C9_USER=admin
-C9_PASS=change-me
+C9_PASS=anan
 CONTAINER_NAME=cloud9
 ```
 
