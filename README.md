@@ -6,7 +6,6 @@ Script ini membuat command global `c9` untuk mengontrol Cloud9 dengan mudah.
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Debian-blue)
 ![Docker](https://img.shields.io/badge/Docker-required-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen)
 
 Simple installer to run **Cloud9 IDE** on **Ubuntu / Debian VPS** using **Docker**.
@@ -189,3 +188,5 @@ sudo rm -rf /root/c9 /root/.c9.env
 MIT License
 
 Copyright (c) 2026 nansys404
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software...
