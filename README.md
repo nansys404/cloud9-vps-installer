@@ -1,4 +1,4 @@
-# Cloud9 VPS Auto Installer
+# Cloud9 VPS Auto Installer using Docker
 
 Installer sederhana untuk menjalankan **Cloud9 IDE** di VPS **Ubuntu / Debian** menggunakan **Docker**.
 
