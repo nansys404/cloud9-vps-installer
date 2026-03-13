@@ -98,6 +98,7 @@ After installation change password:
 
 ```bash
 sudo c9 setpass
+
 sudo c9 restart
 ```
 
@@ -141,6 +142,7 @@ Change port:
 
 ```bash
 sudo c9 setport 9000
+
 sudo c9 restart
 ```
 
