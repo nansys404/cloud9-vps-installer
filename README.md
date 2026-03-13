@@ -97,8 +97,6 @@ After installation change password:
 
 ```bash
 sudo c9 setpass
-
---Then
 sudo c9 restart
 ```
 
@@ -142,8 +140,6 @@ Change port:
 
 ```bash
 sudo c9 setport 9000
-
---Then
 sudo c9 restart
 ```
 
@@ -188,5 +184,3 @@ sudo rm -rf /root/c9 /root/.c9.env
 MIT License
 
 Copyright (c) 2026 nansys404
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software...
