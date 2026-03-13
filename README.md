@@ -42,7 +42,7 @@ Tested on:
 
 # Quick Install
 
-Run this command:
+Just Run this command:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/nansys404/cloud9-vps-installer/main/install.sh | sudo bash
