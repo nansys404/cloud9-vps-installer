@@ -6,6 +6,7 @@ Script ini membuat command global `c9` untuk mengontrol Cloud9 dengan mudah.
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Debian-blue)
 ![Docker](https://img.shields.io/badge/Docker-required-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 ![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen)
 
 Simple installer to run **Cloud9 IDE** on **Ubuntu / Debian VPS** using **Docker**.
@@ -77,7 +78,7 @@ Login: admin / your-password
 | Command | Description |
 |------|-------------|
 | `c9 start` | Start Cloud9 |
-| `c9 stop` | Stop/Uninstall Cloud9 |
+| `c9 stop` | Stop Cloud9 |
 | `c9 restart` | Restart Cloud9 |
 | `c9 status` | Check container status |
 | `c9 logs` | Show container logs |
